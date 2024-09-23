@@ -8,7 +8,7 @@ Ainda essa semana:
 - Criado o primeiro model.py
 ### Ferramentas
 - Python 3
-- Svelt
+- SvelteKit
 - FastApi
 - SQLAlchemy e PostgreSql(quando for feita a conexão)
 
@@ -23,3 +23,5 @@ Os membros do grupo são livers para sugerir novas ferramentas
 - Entre no diretório da API e execute o comando: ```uvicorn main:app --reload```
 - Para testar no Swagger vá para a página /docs da aplicação
 - Para testar o frontend vá para a pasta da aplicação e execute: ```npm run dev```
+
+* Em caso de problemas para executar entre em contato
