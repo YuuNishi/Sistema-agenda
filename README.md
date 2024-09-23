@@ -2,6 +2,8 @@
 Este é um projeto para fins acadêmicos
 ### Infos
 Como este projeto está em fase inicial esta api é só um exemplo sem conexão com o banco.
+Ainda essa semana:
+- Será feita a primeira conexão com o banco
 ### Ferramentas
 - Python 3
 - Svelt
