@@ -2,6 +2,7 @@
 Este é um projeto para fins acadêmicos
 ### Infos
 Como este projeto está em fase inicial esta api é só um exemplo sem conexão com o banco.
+Este repositório ainda está em construção e a aplicação mostra exemplos de get e post com FastApi e o fetch feito por meio do Svelte.
 Ainda essa semana:
 - Será feita a primeira conexão com o banco
 ### Ferramentas
