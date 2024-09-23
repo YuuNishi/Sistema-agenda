@@ -17,6 +17,7 @@ Os membros do grupo são livers para sugerir novas ferramentas
 
 ### Execute na sua máquina
 - Baixe o repositório
+- Não se esqueça de ativar uma venv para as dependências
 - Instale as dependências através do pip e do npm
   - As dependências do backend se encontram no requirements.txt e podem ser executadas da seguinte maneira: ```pip install -r requirements.txt```
 - Entre no diretório da API e execute o comando: ```uvicorn main:app --reload```
