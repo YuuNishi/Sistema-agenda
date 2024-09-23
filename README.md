@@ -1,9 +1,16 @@
 # Projeto para a disciplina de Laboratório de Engenharia de Software
 Este é um projeto para fins acadêmicos
+### Infos
+Como este projeto está em fase inicial esta api é só um exemplo sem conexão com o banco.
 ### Ferramentas
 - Python 3
 - Svelt
 - FastApi
+- SQLAlchemy e PostgreSql(quando for feita a conexão)
+
+Os membros do grupo são livers para sugerir novas ferramentas
+
+
 ### Execute na sua máquina
 - Baixe o repositório
 - Instale as dependências através do pip e do npm
